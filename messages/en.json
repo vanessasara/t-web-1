@@ -1,0 +1,336 @@
+{
+  "NotFoundPage": {
+    "title": "Page Not Found",
+    "description": "Oops! It seems like you've stumbled upon a page that doesn't exist Don't worry, our internationalization magic is still hard at work on other parts of the app Feel free to navigate back to explore more!"
+  },
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "blog": "Blog",
+    "contact": "Contact now"
+  },
+  "Footer": {
+    "copyright": "© 2024 Your App All rights reserved"
+  },
+  "HeroSection": {
+    "title": "Build Your Dream",
+    "subtitle": "Website with Us",
+    "description": "We are a design & development agency helping businesses grow by creating exceptional digital experiences",
+    "buttonText": "Get Started",
+    "imageAlt": "Hero Image"
+  },
+  "bestSolutions": {
+    "sectionTitle": "We help your business in Different Areas",
+    "sectionDescription": "Transform your business with innovative Fintech platforms and strategic tech solutions We excel in understanding your needs, delivering beyond your expectations",
+    "solutionsImageAlt": "Fintech Platforms",
+    "customWebDevelopment": "Ensuring Investment",
+    "responsiveDesign": "Need Tech Talent",
+    "ecommerceSolutions": "Tech Leadership",
+    "seoOptimization": "AI Solutions",
+    "learnMoreButton": "Learn More"
+  },
+  "contact": {
+    "heading": "Let's create something amazing together",
+    "subheading": "Ready to bring your next project to life? Let’s connect and discuss how I can help you achieve your goals",
+    "buttonText": "Contact Us"
+  },
+  "footer": {
+    "about": "About",
+    "features": "Features",
+    "customers": "Customers",
+    "pricing": "Pricing",
+    "help": "Help",
+    "careers": "Careers",
+    "rights": "© 2024 your company, Inc All rights reserved"
+  },
+  "testimonials": {
+    "tag": "Testimonials",
+    "title": "What Our Users Say",
+    "description": "From intuitive design to powerful features, our app has become an essential tool for users around the world",
+    "testimonial1Text": "As an experienced designer always on the lookout for innovative tools, Framercom caught my eye immediately",
+    "testimonial1Name": "Jamie Rivera",
+    "testimonial1Username": "@jamietechguru00",
+    "testimonial2Text": "Our team's productivity has skyrocketed since we started using this tool",
+    "testimonial2Name": "Josh Smith",
+    "testimonial2Username": "@jjsmith",
+    "testimonial3Text": "This app has completely transformed how I manage my projects and deadlines",
+    "testimonial3Name": "Morgan Lee",
+    "testimonial3Username": "@morganleewhiz",
+    "testimonial4Text": "I was amazed at how quickly we were able to integrate this app into our workflow",
+    "testimonial4Name": "Casey Jordan",
+    "testimonial4Username": "@caseyj",
+    "testimonial5Text": "Planning and executing events has never been easier",
+    "testimonial5Name": "Taylor Kim",
+    "testimonial5Username": "@taylorkimm",
+    "testimonial6Text": "The customization and integration capabilities of this app are top-notch",
+    "testimonial6Name": "Riley Smith",
+    "testimonial6Username": "@rileysmith1",
+    "testimonial7Text": "Adopting this app has made project management seamless for our team",
+    "testimonial7Name": "Jordan Patels",
+    "testimonial7Username": "@jpatelsdesign",
+    "testimonial8Text": "With this app, we can easily assign tasks, track progress, and manage documents",
+    "testimonial8Name": "Sam Dawson",
+    "testimonial8Username": "@dawsontechtips",
+    "testimonial9Text": "Its user-friendly interface and powerful features cater to our diverse needs",
+    "testimonial9Name": "Casey Harper",
+    "testimonial9Username": "@casey09"
+  },
+  "awesomeServices": {
+    "heading": {
+      "part1": "We Provide",
+      "part2": "Awesome Services"
+    },
+    "description": "Successfully delivered digital products and platforms for a diverse range of use cases across key industries",
+    "services": {
+      "Technical Hiring": "Technical Hiring",
+      "Software Due Diligence": "Software Due Diligence",
+      "Virtual CTO": "Virtual CTO"
+    },
+    "cards": {
+      "Technical Hiring": {
+        "1": {
+          "title": "Build Your Dream Team",
+          "description": "Efficiently build your dream team Let us handle tech hiring challenges"
+        },
+        "2": {
+          "title": "Talent Sourcing",
+          "description": "Access a pool of top tech talent to match your needs"
+        },
+        "3": {
+          "title": "End-to-End Recruitment",
+          "description": "Comprehensive recruitment process tailored to your organization"
+        }
+      },
+      "Software Due Diligence": {
+        "1": {
+          "title": "Risk Mitigation",
+          "description": "Mitigate risks with thorough tech due diligence"
+        },
+        "2": {
+          "title": "Maximize Returns",
+          "description": "Ensure maximum returns for investors and M&A"
+        },
+        "3": {
+          "title": "Comprehensive Analysis",
+          "description": "Detailed assessment of software architecture and quality"
+        }
+      },
+      "Virtual CTO": {
+        "1": {
+          "title": "Strategic Leadership",
+          "description": "Strategic tech leadership tailored for Fintech innovation"
+        },
+        "2": {
+          "title": "Technology Roadmap",
+          "description": "Developing a clear technology roadmap for your business"
+        },
+        "3": {
+          "title": "Cost Optimization",
+          "description": "Efficient tech solutions to optimize your costs"
+        }
+      }
+    }
+  },
+  "AboutHero": {
+    "heroAlt": "Hero Background",
+    "title": "Welcome to Our Story",
+    "description": "Crafting experiences with passion and innovation",
+    "curveAlt": "Curve Overlay"
+  },
+  "AboutFeature": {
+    "feature1Title": "Fully Integrated Hiring Process",
+    "feature1Description": "End-to-end solution for seamless technical hiring and team building",
+    "feature2Title": "Advanced Software Due Diligence",
+    "feature2Description": "In-depth risk analysis to maximize returns and protect software investments",
+    "feature3Title": "Prebuilt Tech Solutions",
+    "feature3Description": "Ready-made tech solutions to save time and reduce development costs",
+    "feature4Title": "Comprehensive Virtual CTO Services",
+    "feature4Description": "Strategic leadership and tech roadmaps for long-term business growth",
+    "imageAlt": "Team Meeting",
+    "cardTitle": "Get Insights on Technical Hiring",
+    "cardDescription": "Delivering a seamless recruitment experience to help you find top talent quickly and efficiently"
+  },
+  "WorkProcess": {
+    "execution": "Execution",
+    "title": "Our Work Process",
+    "step1Title": "Step 1: Talent Sourcing & Analysis",
+    "step1Description": "We analyze your specific project requirements and source top offshore talent to meet your unique needs efficiently",
+    "step2Title": "Step 2: Strategic Planning & Fintech Solutions",
+    "step2Description": "We develop a tailored strategy for your financial technology needs, ensuring robust and scalable solutions",
+    "step3Title": "Step 3: Virtual CTO & Product Development",
+    "step3Description": "Our Virtual CTO services guide you through the product development process, using innovative technologies for a competitive edge",
+    "step4Title": "Step 4: AI Integration & Compliance Testing",
+    "step4Description": "We integrate AI solutions into your workflows and conduct thorough compliance testing to ensure quality and regulatory adherence"
+  },
+  "Team": {
+    "title": "Our Executive Team",
+    "description": "A group of experts bringing years of experience to deliver top-notch services in technical hiring, software due diligence, and virtual CTO solutions",
+    "member1Name": "Emma Roberts",
+    "member1Role": "Technical Hiring Specialist",
+    "member1Description": "Expert in sourcing, vetting, and hiring top tech talent to build your dream team",
+    "member2Name": "William Pearce",
+    "member2Role": "Software Due Diligence Lead",
+    "member2Description": "Specializes in mitigating risks through thorough tech due diligence, ensuring maximum returns for investors",
+    "member3Name": "Ivana Flow",
+    "member3Role": "Virtual CTO",
+    "member3Description": "Provides strategic leadership and tech roadmaps to optimize costs and drive innovation for businesses",
+    "member4Name": "Sophia Garcia",
+    "member4Role": "Technical Recruiting Lead",
+    "member4Description": "Skilled in end-to-end recruitment, building tech teams that align with company goals and culture"
+  },
+  "News": {
+    "title": "Be the first to see the news",
+    "description": "Your company may not be in the software business, but eventually, a software company will be in your business",
+    "placeholder": "Email Here",
+    "button": "SUBSCRIBE"
+  },
+  "Services": {
+    "tag": "Services",
+    "title": "Unleash Your Technology Potential",
+    "locale": "en"
+  },
+  "blogHero": {
+    "title": "Explore Our Latest Blogs",
+    "description": "Stay updated with the newest trends in tech, design, and innovation Dive into our curated articles that inspire and inform"
+  },
+  "blogs": {
+    "harnessing-ai-in-healthcare": {
+      "title": "Harnessing AI in Healthcare",
+      "description": "Discover how AI is revolutionizing patient care, from diagnostics to personalized treatment plans",
+      "content": "Artificial Intelligence (AI) is rapidly transforming the healthcare industry, offering innovative solutions to improve patient outcomes and streamline operations From diagnostic tools to personalized treatment plans, AI is helping healthcare providers make more accurate decisions and enhance patient care AI in medical imaging, personalized medicine, and lab analysis is driving advancements, ensuring better patient outcomes and efficiency"
+    },
+    "top-trends-in-cloud-computing-2024": {
+      "title": "Top Trends in Cloud Computing for 2024",
+      "description": "Stay ahead of the curve with insights into the latest cloud technologies shaping the future of IT",
+      "content": "Cloud computing continues to evolve with trends like multi-cloud adoption, edge computing, and AI integration, which are shaping the future of technology Businesses are leveraging these advancements to reduce vendor dependence, enhance real-time processing, and deploy intelligent applications at scale"
+    },
+    "cybersecurity-essentials": {
+      "title": "Cybersecurity Essentials: Protecting Your Digital World",
+      "description": "Explore best practices for safeguarding data and preventing cyber threats in a rapidly evolving landscape",
+      "content": "With the rise of cyber threats, adopting strong cybersecurity practices like password management, software updates, and employee training is crucial for safeguarding sensitive data and systems from breaches and attacks"
+    },
+    "data-analytics-for-business-growth": {
+      "title": "Data Analytics for Business Growth",
+      "description": "Learn how leveraging data can boost your decision-making and drive your business to new heights",
+      "content": "Data analytics is driving business growth by providing insights into customer behavior, optimizing operations, and enabling data-driven decision-making for improved customer engagement and operational efficiency"
+    },
+    "the-rise-of-edge-computing": {
+      "title": "The Rise of Edge Computing",
+      "description": "Uncover the potential of edge computing in reducing latency and enhancing real-time data processing",
+      "content": "Edge computing reduces latency by processing data closer to its source, which is crucial for real-time applications in healthcare, automotive, and IoT devices This technology enhances performance, security, and efficiency"
+    },
+    "transforming-ecommerce-with-ai": {
+      "title": "Transforming eCommerce with AI and Automation",
+      "description": "How artificial intelligence is creating personalized shopping experiences and optimizing online sales",
+      "content": "AI in eCommerce enhances customer experiences through personalized recommendations, automated customer support, and optimized inventory management, driving sales and operational efficiency"
+    },
+    "blockchain-beyond-cryptocurrencies": {
+      "title": "Blockchain Beyond Cryptocurrencies",
+      "description": "Understand how blockchain technology is disrupting industries beyond finance, from supply chains to healthcare",
+      "content": "Blockchain technology provides secure, transparent solutions for supply chain management, healthcare, and various other sectors, enabling trust, security, and efficiency beyond digital currencies"
+    },
+    "the-future-of-5g": {
+      "title": "The Future of 5G: What’s Next?",
+      "description": "Explore the impact of 5G on connectivity, innovation, and the evolution of smart cities",
+      "content": "5G is revolutionizing connectivity with its high-speed, low-latency capabilities, enabling advancements in IoT, healthcare, and smart city infrastructure"
+    },
+    "ai-in-education": {
+      "title": "AI in Education: Shaping the Future of Learning",
+      "description": "How artificial intelligence is revolutionizing education by personalizing learning experiences and automating administrative tasks",
+      "content": "AI in education offers personalized learning, automated grading, and enhanced administrative efficiency, paving the way for smarter classrooms and better student outcomes"
+    }
+  },
+  "Contact": {
+    "header": "Get in Touch with Us",
+    "description": "Whether you have a question, want to start a project, or just say hello, our team is ready to answer all your questions",
+    "address": "123 Main St, Anytown, USA",
+    "form": {
+      "nameLabel": "Full Name",
+      "namePlaceholder": "John Doe",
+      "emailLabel": "Email Address",
+      "emailPlaceholder": "you@examplecom",
+      "subjectLabel": "Subject",
+      "subjectPlaceholder": "How can we help you?",
+      "messageLabel": "Your Message",
+      "messagePlaceholder": "Write your message here",
+      "submitButton": "Send Message",
+      "thankYou": "Thank you for reaching out!",
+      "receivedMessage": "We have received your message and will get back to you shortly"
+    },
+    "error": {
+      "emptyFields": "Please fill in all required fields",
+      "invalidEmail": "Please enter a valid email address"
+    }
+  },
+  "common": {
+    "offshore-hiring": {
+      "title": "Offshore Hiring",
+      "description": "Access top global talent for your projects with our offshore hiring solutions."
+    },
+    "fintech-solutions": {
+      "title": "Fintech Solutions",
+      "description": "Innovative financial technology solutions to transform your business.",
+      "content": "Navigating the complexities of the financial industry requires deep expertise and robust solutions. At Takween, we develop scalable, secure, and compliant fintech solutions that meet global standards. Whether you're a startup or an established financial institution, our tailored fintech solutions help you stay ahead of the curve."
+    },
+    "on-demand-virtual-cto": {
+      "title": "On-Demand Virtual CTO",
+      "description": "Leverage our Virtual CTO services to guide your tech strategy and execution.",
+      "content": "In need of strategic guidance but not ready to hire a full-time CTO? Our On-Demand Virtual CTO services offer the perfect solution. Get expert advice on technology roadmaps, digital transformation, and IT strategy to help you scale your business. This flexible service is designed to address your unique challenges and ensure your tech initiatives are on the right track."
+    },
+    "mvp-development": {
+      "title": "MVP Development",
+      "description": "Launch your Minimum Viable Product quickly with our end-to-end development services.",
+      "content": "Speed to market is crucial in today’s fast-paced tech environment. With Takween’s MVP Development services, you can rapidly launch your product with a lean, focused feature set. We handle everything from idea validation to prototyping, development, and deployment, allowing you to gather valuable user feedback early on and iterate quickly."
+    },
+    "ai-business-solutions": {
+      "title": "AI Business Solutions",
+      "description": "Empower your business with AI-driven insights and automation.",
+      "content": "Leverage the power of Artificial Intelligence to streamline your business operations and gain actionable insights. Takween offers customized AI solutions, including predictive analytics, natural language processing, and automation tools, to help you make data-driven decisions and improve efficiency."
+    },
+    "due-diligence-compliance": {
+      "title": "AI-Powered Business Solutions",
+      "description": "Enhance your business with AI-driven insights and automation tools.",
+      "content": "Harness the potential of Artificial Intelligence to optimize your business operations and derive actionable insights. Takween provides tailored AI solutions, including predictive analytics, natural language processing, and automation tools, enabling you to make data-driven decisions and boost efficiency."
+    }
+  },
+  "blogsContent": {
+    "harnessing-ai-in-healthcare": {
+      "title": "Harnessing AI in Healthcare",
+      "content": "Artificial Intelligence (AI) is transforming the healthcare industry by enhancing diagnostic accuracy, personalizing treatment plans, and optimizing operational workflows. From AI-powered imaging tools that detect diseases faster than ever to predictive analytics that improve patient outcomes, AI is making healthcare more efficient and effective. As technology advances, expect even more integration of AI in areas like robotic surgery, drug discovery, and patient management, ultimately improving the quality of care and reducing costs."
+    },
+    "top-trends-in-cloud-computing-2024": {
+      "title": "Top Trends in Cloud Computing for 2024",
+      "content": "As we move into 2024, cloud computing continues to be a catalyst for digital transformation. Key trends include the rise of multi-cloud strategies, serverless computing, and the growing emphasis on cloud-native applications. These advancements are driving greater scalability, flexibility, and cost-efficiency for businesses. Additionally, edge computing and AI integration in cloud services are enhancing real-time data processing capabilities, allowing organizations to deliver faster, more personalized user experiences."
+    },
+    "cybersecurity-essentials": {
+      "title": "Cybersecurity Essentials: Protecting Your Digital World",
+      "content": "In today's digital age, cybersecurity is more critical than ever. As cyber threats evolve, organizations must adopt proactive measures to safeguard sensitive data. Essential practices include multi-factor authentication, encryption, regular software updates, and employee training on recognizing phishing scams. By implementing these best practices, businesses can protect their digital assets, build trust with customers, and ensure compliance with data protection regulations."
+    },
+    "data-analytics-for-business-growth": {
+      "title": "Data Analytics for Business Growth",
+      "content": "Data analytics is a powerful tool for driving business growth. By leveraging data insights, companies can make informed decisions, optimize operations, and enhance customer experiences. From predictive analytics that forecasts market trends to real-time data that informs marketing strategies, data is the backbone of successful business innovation. Implementing robust data analytics solutions can help businesses gain a competitive edge and achieve sustainable growth."
+    },
+    "the-rise-of-edge-computing": {
+      "title": "The Rise of Edge Computing",
+      "content": "Edge computing is revolutionizing how data is processed by bringing computation closer to the source of data generation. This reduces latency, enhances real-time data processing, and improves the performance of IoT devices. Industries like healthcare, manufacturing, and autonomous vehicles are leveraging edge computing to enable faster, more efficient operations. As 5G networks expand, expect edge computing to play a pivotal role in unlocking new possibilities for connected technologies."
+    },
+    "transforming-ecommerce-with-ai": {
+      "title": "Transforming eCommerce with AI and Automation",
+      "content": "Artificial intelligence and automation are reshaping the eCommerce landscape by creating personalized shopping experiences and streamlining operations. AI-powered recommendation engines, chatbots, and inventory management systems are enhancing customer engagement while reducing operational costs. As consumer expectations continue to rise, adopting AI-driven solutions can help eCommerce businesses stay competitive, boost sales, and improve customer loyalty."
+    },
+    "blockchain-beyond-cryptocurrencies": {
+      "title": "Blockchain Beyond Cryptocurrencies",
+      "content": "While blockchain technology gained fame through cryptocurrencies, its potential extends far beyond digital currencies. Blockchain is revolutionizing industries like supply chain management, healthcare, and real estate by offering transparency, security, and decentralization. From tracking product authenticity to securing patient records, blockchain is providing innovative solutions to complex challenges, making it a game-changer for various sectors."
+    },
+    "the-future-of-5g": {
+      "title": "The Future of 5G: What’s Next?",
+      "content": "5G technology is not just about faster internet speeds; it's about transforming connectivity as we know it. The rollout of 5G networks is enabling innovations in smart cities, autonomous vehicles, and the Internet of Things (IoT). With ultra-low latency and increased capacity, 5G is paving the way for a new era of connected devices and immersive experiences. As 5G adoption accelerates, industries must prepare for its impact on everything from data management to customer engagement."
+    },
+    "ai-in-education": {
+      "title": "AI in Education: Shaping the Future of Learning",
+      "content": "Artificial intelligence is transforming education by personalizing learning experiences and automating administrative tasks. AI-driven platforms can assess student performance, identify learning gaps, and tailor educational content to individual needs, making learning more engaging and effective. Additionally, AI tools are streamlining tasks like grading and scheduling, freeing up educators to focus on teaching. The future of education lies in leveraging AI to create more adaptive, inclusive, and efficient learning environments."
+    },
+    "notFound": "Blog not found"
+  }
+}
